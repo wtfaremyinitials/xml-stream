@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "iconv": "^2.1.4",
-    "node-expat": "^2.3.7",
+    "node-expat": "github:fiznool/node-expat",
     "readable-stream": "^1.0.31"
   },
   "directories": {
